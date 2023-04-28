@@ -1,2 +1,2 @@
 # Fighting-Game
-This a Fighting game created using HTML , CSS , JAVASCRIPT 
+This is a Fighting game created using HTML , CSS , JAVASCRIPT 
